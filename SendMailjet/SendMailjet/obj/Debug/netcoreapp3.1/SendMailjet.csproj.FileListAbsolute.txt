@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.exe
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.deps.json
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.runtimeconfig.json
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.dll
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\SendMailjet.pdb
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\Mailjet.Client.dll
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.dll
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.pdb
+C:\Users\Usuario\source\repos\SendEmailByMailjet\SendMailjet\SendMailjet\obj\Debug\netcoreapp3.1\SendMailjet.genruntimeconfig.cache
